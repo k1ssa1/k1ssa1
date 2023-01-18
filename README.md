@@ -1,11 +1,12 @@
+<img src="https://user-images.githubusercontent.com/67519040/213060946-ee3f91b7-38da-4e1d-92a3-8c7821bb3a74.gif" width="100%">
+
+
 <h1 align="center">Hi 👋, I'm Sami</h1>
 <h3 align="center">Code crafter and caffeine enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1ssa1&label=Profile%20views&color=0e75b6&style=flat" alt="k1ssa1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k1ssa1" alt="k1ssa1" /></a> </p>
-
-![IFZD](https://user-images.githubusercontent.com/67519040/213060946-ee3f91b7-38da-4e1d-92a3-8c7821bb3a74.gif)
 
 - 🌱 I’m currently learning **advances data structures and algorithms in python, web scrapping, ETL, python data libraries, asynchronous python frameworks**
 
