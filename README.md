@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1ssa1&label=Profile%20views&color=0e75b6&style=flat" alt="k1ssa1" /> </p>
 
-- 🌱 I’m currently learning **advances data structures and algorithms in python, web scrapping, ETL, python data libraries, asynchronous python frameworks**
+- 🌱 I’m currently learning **advances data structures and algorithms in python, web scrapping, ETL, python data libraries, asynchronous python frameworks, basic machine learning concepts**
 
 - 📝 I regularly write articles on tech and environnement [https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/](https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/)
 
@@ -31,5 +31,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k1ssa1&" alt="k1ssa1" /></p>
 
 <h3 align="left">Join me and let's colab</h3>
-
+<p>I taught the bot how to party, now it's just a bunch of ones and zeroes running wild</p>
 ![FYMa](https://user-images.githubusercontent.com/67519040/213064652-d51f71e8-1acc-4421-bb1f-5d9a7d15ff96.gif)
