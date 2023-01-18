@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on tech and environnement [https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/](https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/)
 
-- 💬 Ask me about **python, react, threejs, web design**
+- 💬 Ask me about **javascript, python, react, threejs, web design**
 
 - 📫 How to reach me **https://www.linkedin.com/in/sami-kissai-pro/**
 
