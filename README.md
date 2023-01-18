@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/67519040/213060946-ee3f91b7-38da-4e1d-92a3-8c7821bb3a74.gif" width="100%" height="50%">
+![IFZD](https://user-images.githubusercontent.com/67519040/213061895-c762b5ac-de92-48da-8cd5-cbf37a10b46d.gif width="100%" )
 
 
 <h1 align="center">Hi 👋, I'm Sami</h1>
