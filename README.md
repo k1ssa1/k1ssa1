@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1ssa1&label=Profile%20views&color=0e75b6&style=flat" alt="k1ssa1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k1ssa1" alt="k1ssa1" /></a> </p>
-
 - 🌱 I’m currently learning **advances data structures and algorithms in python, web scrapping, ETL, python data libraries, asynchronous python frameworks**
 
 - 📝 I regularly write articles on tech and environnement [https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/](https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/)
