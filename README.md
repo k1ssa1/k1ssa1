@@ -31,5 +31,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k1ssa1&" alt="k1ssa1" /></p>
 
 <h3 align="left">Join me and let's colab</h3>
+
 <p>I taught the bot how to party, now it's just a bunch of ones and zeroes running wild</p>
+
 ![FYMa](https://user-images.githubusercontent.com/67519040/213064652-d51f71e8-1acc-4421-bb1f-5d9a7d15ff96.gif)
