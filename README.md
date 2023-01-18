@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ssa1&show_icons=true&locale=en" alt="k1ssa1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k1ssa1&" alt="k1ssa1" /></p>
+
+<h2 align="center">Join me and let's colab</h2>
+![FYMa](https://user-images.githubusercontent.com/67519040/213064652-d51f71e8-1acc-4421-bb1f-5d9a7d15ff96.gif)
