@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k1ssa1" alt="k1ssa1" /></a> </p>
 
-<img src="https://gifer.com/embed/IFZD" width=480 height=318.072 frameBorder="0" allowFullScreen></img><p>
+![IFZD](https://user-images.githubusercontent.com/67519040/213060946-ee3f91b7-38da-4e1d-92a3-8c7821bb3a74.gif)
 
 - 🌱 I’m currently learning **advances data structures and algorithms in python, web scrapping, ETL, python data libraries, asynchronous python frameworks**
 
