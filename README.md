@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1ssa1&label=Profile%20views&color=0e75b6&style=flat" alt="k1ssa1" /> </p>
 
-- 🌱 I’m currently learning **advances data structures and algorithms in python, web scrapping, ETL, python data libraries, asynchronous python frameworks, basic machine learning concepts**
+- 🌱 I’m currently learning **advanced data structures and algorithms in python, web scrapping, ETL, python data libraries, asynchronous python frameworks, basic machine learning concepts**
 
 - 📝 I regularly write articles on tech and environnement [https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/](https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/)
 
