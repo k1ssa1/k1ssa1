@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/67519040/213063885-ebce0bd2-1858-4e25-8783-430a03b68714.gif" alt="em" width="100 />
+<img src="https://user-images.githubusercontent.com/67519040/213063885-ebce0bd2-1858-4e25-8783-430a03b68714.gif" alt="em" width="100" />
 
 
 <h1 align="center">Hi 👋, I'm Sami</h1>
