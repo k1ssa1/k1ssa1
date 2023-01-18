@@ -26,9 +26,9 @@
 <h3 align="left">Github stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k1ssa1&show_icons=true&locale=en&layout=compact" alt="k1ssa1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ssa1&show_icons=true&locale=en" alt="k1ssa1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ssa1&show_icons=true&locale=en" alt="k1ssa1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k1ssa1&" alt="k1ssa1" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=k1ssa1&" alt="k1ssa1" /></p>
 
 <h3 align="left">Join me and let's colab</h3>
 
