@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/67519040/213063174-2773926e-a771-4ccb-aef4-7f3436893c51.gif" alt="sc" width="100%"/>
+![BcE2](https://user-images.githubusercontent.com/67519040/213063885-ebce0bd2-1858-4e25-8783-430a03b68714.gif)
+
 
 <h1 align="center">Hi 👋, I'm Sami</h1>
 <h3 align="center">Code crafter and caffeine enthusiast</h3>
