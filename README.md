@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Sami</h1>
 <h3 align="center">Code crafter and caffeine enthusiast</h3>
 
-https://api.readyplayer.me/v1/avatars/63c850abf5987e4c18052c03.glb
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1ssa1&label=Profile%20views&color=0e75b6&style=flat" alt="k1ssa1" /> </p>
 
