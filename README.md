@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm kitchen code</h1>
-<h3 align="center">Code crafter and caffeine enthusiast</h3>
+<h3 align="center">Code saucier and caffeine enthusiast</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1ssa1&label=Profile%20views&color=0e75b6&style=flat" alt="k1ssa1" /> </p>
