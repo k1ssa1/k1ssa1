@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/67519040/213063885-ebce0bd2-1858-4e25-8783-430a03b68714.gif" alt="em" width="100%" />
+<img src="https://i0.wp.com/media1.tenor.com/images/a3196e95a762e7c324e7366cd18ed479/tenor.gif?itemid=13574321?resize=650,400" alt="em" width="100%" />
 
 
 <h1 align="center">Hi 👋, I'm kitchen code</h1>
@@ -7,11 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1ssa1&label=Profile%20views&color=0e75b6&style=flat" alt="k1ssa1" /> </p>
 
-- 🌱 I’m currently learning **advanced data structures and algorithms in python, web scrapping, ETL, python data libraries, asynchronous python frameworks, basic machine learning concepts**
+- 🌱 I’m currently learning ** Front end and data engineering**
 
-- 📝 I regularly write articles on tech and environnement [https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/](https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/)
-
-- 💬 Ask me about **javascript, python, react, threejs, web design**
+- 📝 I write articles on tech and environnement [https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/](https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/sami-kissai-pro/**
 
@@ -32,7 +30,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k1ssa1&" alt="k1ssa1" /></p>
 
 <h3 align="left">Join me and let's colab</h3>
-
-<p>I taught the bot how to party, now it's just a bunch of ones and zeroes running wild</p>
-
-![FYMa](https://user-images.githubusercontent.com/67519040/213064652-d51f71e8-1acc-4421-bb1f-5d9a7d15ff96.gif)
