@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1ssa1&label=Profile%20views&color=0e75b6&style=flat" alt="k1ssa1" /> </p>
 
-- 🌱 I’m currently learning ** Front end and data engineering**
+- 🌱 I’m currently learning **Front end and data engineering**
 
 - 📝 I write articles on tech and environnement [https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/](https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/)
 
