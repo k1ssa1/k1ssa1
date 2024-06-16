@@ -1,4 +1,7 @@
-![Typing Dogs](https://giphy.com/embed/Dh5q0sShxgp13DwrvG)
+![Typing Dogs](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)
+
+[View on Giphy](https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG)
+
 
 
 
