@@ -1,4 +1,6 @@
-<img src="https://i0.wp.com/media1.tenor.com/images/a3196e95a762e7c324e7366cd18ed479/tenor.gif?itemid=13574321?resize=650,400" alt="em" width="100%" height="50%" />
+![Typing Dogs](https://giphy.com/embed/Dh5q0sShxgp13DwrvG)
+
+
 
 <h1 align="center">Hi 👋, I'm Kitchen Code</h1>
 <h3 align="center">Code Saucier and Caffeine Enthusiast</h3>
