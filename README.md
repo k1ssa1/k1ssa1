@@ -60,9 +60,7 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=k1ssa1&bg_color=ffffff&color=0400ff&line=0400ff&point=0400ff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+## Contribution graph
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=k1ssa1&theme=onedark" alt="Trophies" />
