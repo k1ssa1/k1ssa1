@@ -5,29 +5,21 @@
 <div align="center">
   <h3>🌱 Currently Learning</h3>
 
-  - <strong>Advanced JavaScript:</strong>
-    - ES6+ features and syntax
-    - Asynchronous JavaScript (Promises, async/await)
-    - Functional programming concepts
+  <p><strong>Advanced JavaScript:</strong> ES6+ features and syntax, asynchronous JavaScript (Promises, async/await), functional programming concepts.</p>
 
-  - <strong>Data Engineering:</strong>
-    - Data pipelines and ETL processes
-    - Big data technologies
+  <p><strong>Data Engineering:</strong> Data pipelines and ETL processes, big data technologies.</p>
 </div>
 
 <div align="center">
   <h3>📝 Writing Articles</h3>
 
-  - Tech and environment topics at <a href="https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/">High Atlas Foundation</a>:
-    - Sustainable technology
-    - Innovative solutions
-    - Environmental impact
+  <p>Tech and environment topics at <a href="https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/">High Atlas Foundation</a>: sustainable technology, innovative solutions, environmental impact.</p>
 </div>
 
 <div align="center">
   <h3>📫 Get in Touch</h3>
 
-  - Connect with me on <a href="https://www.linkedin.com/in/sami-kissai-pro/">LinkedIn</a>
+  <p>Connect with me on <a href="https://www.linkedin.com/in/sami-kissai-pro/">LinkedIn</a>.</p>
 </div>
 
 <h3 align="center">Connect with me:</h3>
