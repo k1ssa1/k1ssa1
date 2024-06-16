@@ -7,9 +7,10 @@
 
 ### 🌱 Currently Learning
 
-- **Front End Development:**
-  - HTML, CSS, JavaScript
-  - React and Vue.js frameworks
+- **Advanced JavaScript:**
+  - ES6+ features and syntax
+  - Asynchronous JavaScript (Promises, async/await)
+  - Functional programming concepts
 
 - **Data Engineering:**
   - Data pipelines and ETL processes
@@ -25,6 +26,7 @@
 ### 📫 Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/sami-kissai-pro/)
+
 
 
 <h3 align="center">Connect with me:</h3>
