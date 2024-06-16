@@ -2,30 +2,33 @@
 <h3 align="center">Code Saucier and Caffeine Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=k1ssa1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+<div align="center">
+  <h3>🌱 Currently Learning</h3>
 
-### 🌱 Currently Learning
+  - <strong>Advanced JavaScript:</strong>
+    - ES6+ features and syntax
+    - Asynchronous JavaScript (Promises, async/await)
+    - Functional programming concepts
 
-- **Advanced JavaScript:**
-  - ES6+ features and syntax
-  - Asynchronous JavaScript (Promises, async/await)
-  - Functional programming concepts
+  - <strong>Data Engineering:</strong>
+    - Data pipelines and ETL processes
+    - Big data technologies
+</div>
 
-- **Data Engineering:**
-  - Data pipelines and ETL processes
-  - Big data technologies
+<div align="center">
+  <h3>📝 Writing Articles</h3>
 
-### 📝 Writing Articles
+  - Tech and environment topics at <a href="https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/">High Atlas Foundation</a>:
+    - Sustainable technology
+    - Innovative solutions
+    - Environmental impact
+</div>
 
-- Tech and environment topics at [High Atlas Foundation](https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/):
-  - Sustainable technology
-  - Innovative solutions
-  - Environmental impact
+<div align="center">
+  <h3>📫 Get in Touch</h3>
 
-### 📫 Get in Touch
-
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/sami-kissai-pro/)
-
-
+  - Connect with me on <a href="https://www.linkedin.com/in/sami-kissai-pro/">LinkedIn</a>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
