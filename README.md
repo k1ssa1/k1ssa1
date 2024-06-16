@@ -5,11 +5,27 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=k1ssa1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-- 🌱 I’m currently learning **Front end and data engineering**
+### 🌱 Currently Learning
 
-- 📝 I write articles on tech and environment at [High Atlas Foundation](https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/)
+- **Front End Development:**
+  - HTML, CSS, JavaScript
+  - React and Vue.js frameworks
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sami-kissai-pro/)
+- **Data Engineering:**
+  - Data pipelines and ETL processes
+  - Big data technologies
+
+### 📝 Writing Articles
+
+- Tech and environment topics at [High Atlas Foundation](https://highatlasfoundation.org/moroccan-innovation-and-the-journey-to-solar-vehicle-races/):
+  - Sustainable technology
+  - Innovative solutions
+  - Environmental impact
+
+### 📫 Get in Touch
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/sami-kissai-pro/)
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -65,10 +81,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=k1ssa1&theme=onedark" alt="Trophies" />
 </p>
-
-## Activity overview
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=k1ssa1&bg_color=ffffff&color=0400ff&line=0400ff&point=0400ff&area=true&hide_border=true" alt="Activity Overview" />
-</p>
-
