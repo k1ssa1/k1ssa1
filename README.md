@@ -65,3 +65,10 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=k1ssa1&theme=onedark" alt="Trophies" />
 </p>
+
+## Activity overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=k1ssa1&bg_color=ffffff&color=0400ff&line=0400ff&point=0400ff&area=true&hide_border=true" alt="Activity Overview" />
+</p>
+
