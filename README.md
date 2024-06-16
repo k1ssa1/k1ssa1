@@ -1,10 +1,3 @@
-![Typing Dogs](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)
-
-[View on Giphy](https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG)
-
-
-
-
 <h1 align="center">Hi 👋, I'm Kitchen Code</h1>
 <h3 align="center">Code Saucier and Caffeine Enthusiast</h3>
 
