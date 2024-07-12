@@ -108,7 +108,7 @@
 </p>
 
 ## Discover my latest NasaAPI React app
-<plink! https://wondrous-griffin-c25052.netlify.app/</p>
+<p>link: https://wondrous-griffin-c25052.netlify.app/</p>
 
 
 ## Github Stats
