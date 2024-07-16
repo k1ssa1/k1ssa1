@@ -107,9 +107,6 @@
   </a> 
 </p>
 
-## Discover my latest NasaAPI React app
-<p>link: https://wondrous-griffin-c25052.netlify.app/</p>
-
 
 ## Github Stats
 
