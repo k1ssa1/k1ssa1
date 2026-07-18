@@ -11,7 +11,7 @@
 />
 </div>
 
-*"Brewing data pipelines one cup at a time."*
+*"Today's Special: Fresh Code & Hot Coffee"*
 
 </div>
 
@@ -24,15 +24,15 @@ I'm a software engineer with a background in full-stack development, currently t
 I enjoy building reliable software, exploring data, and documenting everything I learn throughout my journey.
 
 ```text
-☕ Today's Special
-──────────────────────────
-Coffee        ██████████ 100%
-Coding        ██████████ 100%
-Debugging     ████████░░  80%
-Sleep         ██░░░░░░░░  20%
+╭────────────────────────────╮
+│       KITCHEN CODE ☕       │
+├────────────────────────────┤
+│ 🎷 Noir Jazz               │
+│ ☕ Black Coffee            │
+│ 💻 Fresh Code             │
+│ 📊 Data Pipelines         │
+╰────────────────────────────╯
 ```
-
----
 
 ## 📬 Connect with Me
 
