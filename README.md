@@ -5,10 +5,7 @@
 ### Software Engineer | Aspiring Data Engineer
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBrMjFpeDRpdTFudmE0aDdwaGt4bGhqMDhham5xbmRkcjJ5aDJxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ENbHAsqLxzO2GCgh6H/giphy.gif" width="170" alt="Coffee Sticker">
-
-<img
-src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJpY3lyeHlueDdiMmtnNWlxZnA0eGdhMWN6cHB5dG91OTI1MTlpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eRb3H7dEaipnZtoitK/giphy.gif"
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBrMjFpeDRpdTFudmE0aDdwaGt4bGhqMDhham5xbmRkcjJ5aDJxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ENbHAsqLxzO2GCgh6H/giphy.gif" width="170" alt="Coffee Sticker"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJpY3lyeHlueDdiMmtnNWlxZnA0eGdhMWN6cHB5dG91OTI1MTlpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eRb3H7dEaipnZtoitK/giphy.gif"
   width="140"
   alt="Retro Coffee Sticker"
 />
