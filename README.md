@@ -37,4 +37,4 @@ I enjoy building reliable software, exploring data, and documenting everything I
 ## 📬 Connect with Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sami-kissai-pro/
-- ✍️ **Medium:** https://medium.com/@kitchen_code
+- ✍️ **Dev.to:** https://dev.to/kitchen_code
