@@ -49,6 +49,20 @@ Currently working with:
 
 </div>
 
+<div align="center">
+
+<img src="YOUR_STATS_CARD" height="170">
+
+<img src="YOUR_TOP_LANGUAGES_CARD" height="170">
+
+<br>
+
+<img src="YOUR_STREAK_CARD" height="170">
+
+<img src="YOUR_PROFILE_SUMMARY_CARD" height="170">
+
+</div>
+
 
 ## 📬 Connect with Me
 
