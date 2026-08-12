@@ -37,6 +37,16 @@ Currently working with:
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1ssa1&theme=github_dark">
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k1ssa1&theme=github_dark&utcOffset=0">
+
+<br>
+
+<div>
+  
 <img
   src="https://github-readme-stats-fast.vercel.app/api?username=k1ssa1&show_icons=true&hide_border=true"
   height="170"
@@ -46,14 +56,9 @@ Currently working with:
   src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=k1ssa1&layout=compact&hide_border=true"
   height="170"
 />
+  
+</div>
 
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1ssa1&theme=github_dark">
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k1ssa1&theme=github_dark&utcOffset=0">
 
 </div>
 
