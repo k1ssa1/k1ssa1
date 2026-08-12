@@ -37,9 +37,7 @@ Currently working with:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=k1ssa1&show_icons=true&hide_border=true&rank_icon=github" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ssa1&layout=compact&hide_border=true" height="170">
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=k1ssa1)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
