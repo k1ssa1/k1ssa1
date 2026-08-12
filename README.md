@@ -37,26 +37,33 @@ Currently working with:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1ssa1&theme=github_dark">
+  <!-- Full-width row -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1ssa1&theme=github_dark"
+    width="100%"
+  />
 
-<br>
+  <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k1ssa1&theme=github_dark&utcOffset=0">
+  <!-- Full-width row -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k1ssa1&theme=github_dark&utcOffset=0"
+    width="100%"
+  />
 
-<br>
+  <br><br>
 
-<div>
-  
-<img
-  src="https://github-readme-stats-fast.vercel.app/api?username=k1ssa1&show_icons=true&hide_border=true"
-  height="170"
-/>
+  <!-- Two-column row -->
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=k1ssa1&show_icons=true&hide_border=true"
+    height="170"
+  />
 
-<img
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=k1ssa1&layout=compact&hide_border=true"
-  height="170"
-/>
-  
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=k1ssa1&layout=compact&hide_border=true"
+    height="170"
+  />
+
 </div>
 
 
