@@ -45,14 +45,6 @@ Currently working with:
 
   <br><br>
 
-  <!-- Full-width row -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k1ssa1&theme=github_dark&utcOffset=0"
-    width="100%"
-  />
-
-  <br><br>
-
   <!-- Two-column row -->
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=k1ssa1&show_icons=true&hide_border=true"
