@@ -47,21 +47,16 @@ Currently working with:
   height="170"
 />
 
-</div>
+<br>
 
-<div align="center">
-
-<img src="YOUR_STATS_CARD" height="170">
-
-<img src="YOUR_TOP_LANGUAGES_CARD" height="170">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1ssa1&theme=github_dark">
 
 <br>
 
-<img src="YOUR_STREAK_CARD" height="170">
-
-<img src="YOUR_PROFILE_SUMMARY_CARD" height="170">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k1ssa1&theme=github_dark&utcOffset=0">
 
 </div>
+
 
 
 ## 📬 Connect with Me
