@@ -11,28 +11,38 @@
 />
 </div>
 
-*"Today's Special: Fresh Code & Hot Coffee"*
-
 </div>
 
 ---
-
-## 👨‍🍳 About Me
+## About Me
 
 I'm a software engineer with a background in full-stack development, currently transitioning into **Data Engineering**.
 
-I enjoy building reliable software, exploring data, and documenting everything I learn throughout my journey.
+I'm interested in building reliable data pipelines, working with databases and cloud platforms, and learning how to design scalable data systems.
 
-```text
-╭────────────────────────────╮
-│       KITCHEN CODE ☕       │
-├────────────────────────────┤
-│ 🎷 Noir Jazz               │
-│ ☕ Black Coffee            │
-│ 💻 Fresh Code             │
-│ 📊 Data Pipelines         │
-╰────────────────────────────╯
-```
+Currently working with:
+
+- Python, Pandas, Pandera
+- SQL
+- dbt
+- PostgreSQL
+- Snowflake
+- Apache Airflow
+- Docker
+- Git
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=k1ssa1&show_icons=true&hide_border=true&rank_icon=github" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ssa1&layout=compact&hide_border=true" height="170">
+
+</div>
+
 
 ## 📬 Connect with Me
 
