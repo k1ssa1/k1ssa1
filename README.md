@@ -13,7 +13,6 @@
 
 </div>
 
----
 ## About Me
 
 I'm a software engineer with a background in full-stack development, currently transitioning into **Data Engineering**.
@@ -30,8 +29,6 @@ Currently working with:
 - Apache Airflow
 - Docker
 - Git
-
----
 
 ## GitHub Stats
 
