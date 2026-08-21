@@ -62,7 +62,7 @@ Currently working with:
 </div>
 
 
-## Discover My Mrticles
+## Discover My Articles
 
 - **Dev.to:** https://dev.to/kitchen_code
 
