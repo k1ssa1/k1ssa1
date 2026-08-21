@@ -23,10 +23,10 @@ I'm interested in building reliable data pipelines, working with databases and c
 Currently working with:
 
 - Python, Pandas, Pandera
+- Requests, Beautiful Soup
 - SQL
+- PostgreSQL, Snowflake
 - dbt
-- PostgreSQL
-- Snowflake
 - Apache Airflow
 - Docker
 - Git
@@ -62,8 +62,11 @@ Currently working with:
 </div>
 
 
+## Discover My Mrticles
 
-## 📬 Connect with Me
+- **Dev.to:** https://dev.to/kitchen_code
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sami-kissai-pro/
-- ✍️ **Dev.to:** https://dev.to/kitchen_code
+## Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/sami-kissai-pro/
+
