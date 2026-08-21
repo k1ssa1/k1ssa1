@@ -22,7 +22,7 @@ I'm interested in building reliable data pipelines, working with databases and c
 
 Currently working with:
 
-- Python, Pandas, Pandera
+- Python, Pandas, Pandera, Pydantic
 - Requests, Beautiful Soup
 - SQL
 - PostgreSQL, Snowflake
