@@ -19,7 +19,7 @@ I'm a software engineer with a background in full-stack development, currently t
 
 I'm interested in building reliable data pipelines, working with databases and cloud platforms, and learning how to design scalable data systems.
 
-Currently working with:
+### Tech Stack:
 
 - Python, Pandas, Pandera, Pydantic
 - Requests, Beautiful Soup
@@ -29,6 +29,75 @@ Currently working with:
 - Apache Airflow
 - Docker
 - Git
+
+### Concepts
+
+```
+
+Data Engineering
+├── ETL / ELT Paradigms
+├── Data Ingestion
+├── Data Quality Management
+│   ├── Data validation
+│   └── Data cleaning
+├── Batch Processing
+├── Data Modeling
+│   ├── Relational Modeling
+│   │   ├── Normalization
+│   │   └── Denormalization
+│   └── Dimensional Modeling
+│       ├── Star / Snowflake Schemas
+│       ├── Fact Tables
+│       ├── Dimension Tables
+│       └── Grain
+│
+├── SQL
+│   ├── DDL / DQL / DQL
+│   ├── Joins
+│   ├── Grouping
+│   ├── Aggregations
+│   ├── Subqueries
+│   ├── CTEs
+│   ├── ACL
+│   └── Transactions
+│
+├── Database Systems
+│   ├── Concurrency
+│   │   └── MVCC
+│   ├── Durability & Recovery
+│   │   └── WAL
+│   ├── Maintenance
+│   │   └── VACUUM
+│   └── Roles & Privileges
+│
+├── Data Warehousing
+│   └── Data Lineage
+│
+├── Pipeline Orchestration
+│   ├── DAGs
+│   ├── Tasks & Dependencies
+│   ├── Scheduling
+│   └── Retries
+│
+├── Containerization
+│   ├── Images
+│   └── Containers
+│
+├── Python
+│   ├── Object-Oriented Programming
+│   ├── Modules & Packages
+│   ├── Virtual Environments
+│   ├── Exception Handling
+│   ├── Dictionaries / Lists
+│   ├── Context Managers
+│   ├── HTTP requests
+│   └── File I/O
+│
+└── Version Control
+    ├── Branching
+    ├── Merging
+    └── Pull Requests
+```
 
 ## GitHub Stats
 
