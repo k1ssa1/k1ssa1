@@ -19,7 +19,7 @@ I'm a software engineer with a background in full-stack development, currently t
 
 I'm interested in building reliable data pipelines, working with databases and cloud platforms, and learning how to design scalable data systems.
 
-### Tech Stack:
+## Tech Stack:
 
 - Python, Pandas, Pandera, Pydantic
 - Requests, Beautiful Soup
@@ -30,7 +30,7 @@ I'm interested in building reliable data pipelines, working with databases and c
 - Docker
 - Git
 
-### Concepts
+## Concepts
 
 ```
 
