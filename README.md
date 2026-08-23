@@ -34,7 +34,7 @@ I'm interested in building reliable data pipelines, working with databases and c
 
 ```
 
-Data Engineering
+Concepts
 ├── ETL / ELT Paradigms
 ├── Data Ingestion
 ├── Data Quality Management
