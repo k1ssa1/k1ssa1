@@ -37,11 +37,23 @@ I'm interested in building reliable data pipelines, working with databases and c
 Concepts
 ├── ETL / ELT Paradigms
 ├── Data Ingestion
+│   ├── REST APIs
+│   ├── Web Scraping
+│   └── File-based Ingestion
+│       ├── Tabular
+│       │   ├── CSV
+│       │   └── Excel / XLSX
+│       └── Semi-Structured
+│           └── JSON
 ├── Data Quality Management
 │   ├── Data validation
 │   └── Data cleaning
 ├── Batch Processing
 ├── Data Modeling
+│   ├── Modeling Levels
+│   │   ├── Conceptual Modeling
+│   │   ├── Logical Modeling
+│   │   └── Physical Modeling
 │   ├── Relational Modeling
 │   │   ├── Normalization
 │   │   └── Denormalization
@@ -52,7 +64,7 @@ Concepts
 │       └── Grain
 │
 ├── SQL
-│   ├── DDL / DQL / DQL
+│   ├── DDL / DML / DQL
 │   ├── Joins
 │   ├── Grouping
 │   ├── Aggregations
@@ -71,7 +83,11 @@ Concepts
 │   └── Roles & Privileges
 │
 ├── Data Warehousing
-│   └── Data Lineage
+│   ├── Data Warehouse Architecture
+│   └── Layered Transformation Architecture
+│       ├── Staging
+│       ├── Intermediate
+│       └── Marts
 │
 ├── Pipeline Orchestration
 │   ├── DAGs
