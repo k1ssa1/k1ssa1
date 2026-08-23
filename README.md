@@ -70,7 +70,6 @@ Concepts
 │   ├── Aggregations
 │   ├── Subqueries
 │   ├── CTEs
-│   ├── ACL
 │   └── Transactions
 │
 ├── Database Systems
@@ -80,7 +79,7 @@ Concepts
 │   │   └── WAL
 │   ├── Maintenance
 │   │   └── VACUUM
-│   └── Roles & Privileges
+│   └── ACL
 │
 ├── Data Warehousing
 │   ├── Data Warehouse Architecture
