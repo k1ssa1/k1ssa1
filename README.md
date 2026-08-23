@@ -114,67 +114,6 @@ Concepts
     └── Pull Requests
 ```
 
-## Concepts
-
-### Data Engineering
-
-| Concept | Sub-concepts |
-|---|---|
-| **ETL / ELT** | ETL / ELT Paradigms |
-| **Data Ingestion** | REST APIs · Web Scraping · File-based Ingestion |
-| **Data Quality Management** | Data Validation · Data Cleaning |
-| **Batch Processing** | — |
-
-### Data Modeling
-
-| Concept | Sub-concepts |
-|---|---|
-| **Modeling Levels** | Conceptual Modeling · Logical Modeling · Physical Modeling |
-| **Relational Modeling** | Normalization · Denormalization |
-| **Dimensional Modeling** | Star / Snowflake Schemas · Fact Tables · Dimension Tables · Grain |
-
-### SQL & Databases
-
-| Concept | Sub-concepts |
-|---|---|
-| **SQL** | DDL · DML · DQL · Joins · Grouping · Aggregations · Subqueries · CTEs · Transactions |
-| **Concurrency** | MVCC |
-| **Durability & Recovery** | WAL |
-| **Database Maintenance** | VACUUM |
-| **Access Control** | ACL · Roles & Privileges |
-
-### Data Warehousing
-
-| Concept | Sub-concepts |
-|---|---|
-| **Data Warehouse Architecture** | — |
-| **Layered Transformation Architecture** | Staging · Intermediate · Marts |
-
-### Pipeline & Infrastructure
-
-| Concept | Sub-concepts |
-|---|---|
-| **Pipeline Orchestration** | DAGs · Tasks & Dependencies · Scheduling · Retries |
-| **Containerization** | Images · Containers |
-
-### Python
-
-| Concept | Sub-concepts |
-|---|---|
-| **Python Fundamentals** | Dictionaries · Lists · File I/O |
-| **Object-Oriented Programming** | — |
-| **Modules & Packages** | — |
-| **Virtual Environments** | — |
-| **Exception Handling** | — |
-| **Context Managers** | — |
-| **HTTP Requests** | — |
-
-### Version Control
-
-| Concept | Sub-concepts |
-|---|---|
-| **Git** | Branching · Merging · Pull Requests |
-
 ## GitHub Stats
 
 <div align="center">
