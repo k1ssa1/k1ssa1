@@ -26,6 +26,7 @@ I'm interested in building reliable data pipelines, working with databases and c
 - SQL
 - PostgreSQL, Snowflake
 - dbt
+- Power
 - Apache Airflow
 - Docker
 - Git
