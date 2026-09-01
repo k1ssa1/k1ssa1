@@ -21,6 +21,7 @@ I'm interested in building reliable data pipelines, working with databases and c
 
 ## Tech Stack
 
+- Java
 - Python, Pandas, Pandera, Pydantic
 - Requests, Beautiful Soup
 - SQL
